@@ -16,8 +16,6 @@
 
 ![Captura de pantalla (221)](https://user-images.githubusercontent.com/88462536/162596476-1969ffc5-844f-4e39-80f4-b78b5691a076.png)
 
-![Bienvenido - Internet Explorer 9_4_2022 20_31_33](https://user-images.githubusercontent.com/88462536/162596455-e61348c3-c0cc-42e5-84de-685beb1f1f0a.png)
-
 ![Captura de pantalla (228)](https://user-images.githubusercontent.com/88462536/162596487-c8bb2d52-f96f-4d98-b5e0-564bd8dcb313.png)
 
-![Cancelar Pedido - Internet Explorer 9_4_2022 20_34_13](https://user-images.githubusercontent.com/88462536/162596458-cde78b6c-12a3-48dd-9365-aa05f6083b72.png)
+
